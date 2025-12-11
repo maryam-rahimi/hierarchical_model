@@ -476,8 +476,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or collaboration opportunities:
 - **Email**: maryam.rahimimovassagh@ucf.edu
-- **GitHub Issues**: [Open an issue](https://github.com/yourusername/HARMONI-HELM-ME/issues)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
 
 
 **Built with ❤️ for advancing neurological diagnostics through AI**
