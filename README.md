@@ -479,12 +479,5 @@ For questions or collaboration opportunities:
 - **GitHub Issues**: [Open an issue](https://github.com/yourusername/HARMONI-HELM-ME/issues)
 - **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
 
----
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/HARMONI-HELM-ME&type=Date)](https://star-history.com/#yourusername/HARMONI-HELM-ME&Date)
-
----
 
 **Built with ❤️ for advancing neurological diagnostics through AI**
